@@ -1,0 +1,23 @@
+{
+  "name": "soundcharts-typescript",
+  "version": "1.0.0",
+  "description": "A TypeScript wrapper for the Soundcharts API. View the full API at https://doc.api.soundcharts.com/",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonrose/Soundcharts-TypeScript.git"
+  },
+  "keywords": [
+    "Soundcharts",
+    "typescript"
+  ],
+  "author": "anonrose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anonrose/Soundcharts-TypeScript/issues"
+  },
+  "homepage": "https://github.com/anonrose/Soundcharts-TypeScript#readme"
+}
